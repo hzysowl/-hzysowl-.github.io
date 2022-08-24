@@ -1,0 +1,11 @@
+//c learn
+include<stdio>
+int main()
+{
+  while(True)
+  {
+  printf("again to learn this world")
+  }
+
+}
+return 0;
